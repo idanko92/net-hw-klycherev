@@ -93,7 +93,7 @@ Master и несколько slave-серверов:
 
 Блоксхема была сделана в draw.io. Файл - [sql.drawio.xml](/sql.drawio.xml)
 
-![sqlmap](/img/sql map.jpg)
+![sqlmap](/img/sqlmap.jpg)
 
 ---
 
